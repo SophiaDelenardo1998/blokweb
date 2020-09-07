@@ -68,4 +68,4 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](SCHOOL/Frontend-Breakdown_schets_pagina_1.jpg)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](Frontend/Frontend-Breakdown_schets_pagina_1.jpg)
