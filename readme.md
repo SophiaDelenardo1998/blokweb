@@ -40,16 +40,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -dit ging goed & dit was lastig-
 
-In het begin vond ik het erg lastig om te beginnen. De HTML schrijven ging nog wel reddelijk. De css was echter een stuk lastiger veel dingen moest ik telkens opniew opzoeken. Wat ook nieuw voor mij was was het gebruik van section:nth-of-type(1) maar toe ik dit eenmaal door had ging het een stuk beter.
-Toen ik eenmaal bezig was met de code merkte ik dat het best reddelijk ging. Waar ik nog wel veel moeite mee had was met de code van het hamburgermenutje.
-De opmaak hiervan is nog wel lastig.
-
 **Screenshot(s):**
 
+-screenshot(s) van hoe ver je bent-
+
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/schermafbeelding1.jpg)
-
 ### Agenda voor meeting
-
 
 -samen met je groepje opstellen-
 
@@ -61,11 +57,11 @@ De opmaak hiervan is nog wel lastig.
 
 ## Intake (week 1)
 
-**Je startniveau:** -Blauw-
+**Je startniveau:** -kies uit zwart, rood óf blauw-
 
-**Je focus:** -Surface plane-
+**Je focus:** -kies uit responsive óf surface plane-
 
-**Je opdracht:** -https://www.apple.com/nl/-
+**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
 **Screenshot(s):**
 
@@ -73,4 +69,4 @@ De opmaak hiervan is nog wel lastig.
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Breakdown_schets_pagina_1.jpg)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
