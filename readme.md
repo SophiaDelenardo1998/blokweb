@@ -45,12 +45,11 @@ Toen ik eenmaal bezig was met de code merkte ik dat het best reddelijk ging. Waa
 De opmaak hiervan is nog wel lastig.
 
 **Screenshot(s):**
-(images/schermafbeelding1.png)
-(images/schermafbeelding2.png)
-(images/schermafbeelding3.png)
-(images/schermafbeelding4.png)
 
-
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Breakdownschermafbeelding1.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Breakdownschermafbeelding2.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Breakdownschermafbeelding3.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Breakdownschermafbeelding4.png)
 -screenshot(s) van hoe ver je bent-
 
 ### Agenda voor meeting
