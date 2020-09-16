@@ -46,10 +46,10 @@ De opmaak hiervan is nog wel lastig.
 
 **Screenshot(s):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Breakdownschermafbeelding1.png)
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Breakdownschermafbeelding2.png)
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Breakdownschermafbeelding3.png)
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Breakdownschermafbeelding4.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/schermafbeelding1.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/schermafbeelding2.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](schermafbeelding3.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](schermafbeelding4.png)
 -screenshot(s) van hoe ver je bent-
 
 ### Agenda voor meeting
