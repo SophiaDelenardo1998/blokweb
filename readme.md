@@ -1,12 +1,12 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** Sophia Delenardo
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 
 
 ## Bronnenlijst
-1. -bron 1-
+1. apple.com
 2. -bron 2-
 3. -...-
 
@@ -45,6 +45,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -screenshot(s) van hoe ver je bent-
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/schermafbeelding1.jpg)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/schermafbeelding2.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/schermafbeelding3.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/schermafbeelding4.png)
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
@@ -65,8 +68,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Breakdown_schets_pagina_1.svg)
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Breakdown_schets_pagina_1.svg)

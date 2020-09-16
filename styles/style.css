@@ -1,5 +1,215 @@
 /* CSS Document */
+
+@font-face {
+  font-family: "SF Pro Text";
+  src: url("//db.onlinewebfonts.com/t/1c45e28f8e86cc89876f003b953cc3e9.eot");
+}
 *, *::after, *::before {
-  box-sizing:border-box;  
+  box-sizing:border-box;
+  padding: 0;
+  margin: 0;
 }
 
+body {
+  font-family: 'SF Pro Textma', sans-serif;
+}
+
+.overflow {
+  overflow: hidden !important;
+}
+/*Styling navigatiebar */
+nav {
+  position: fixed;
+  background: rgba(0,0,0,0.92);
+  width: 100vw;
+}
+header {
+  height: auto;
+}
+header ul {
+  list-style-type:none;
+  display:flex;
+  width: 80%;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+
+header ul li img {
+  width: 30px;
+}
+.navigatiebar_hidden {
+  transform: translateY(-100vh);
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  background-color: red;
+  transition: transform .5s;
+}
+
+.navigatiebar_hidden img {
+  width: 30px;
+}
+
+.shownavigatie {
+  transform: translateY(0);
+}
+
+/*Styling voor blok iPhone SE */
+section:nth-of-type(1) {
+  background-color: rgb(19, 19, 19);
+  padding-top: 30px;
+  padding-top:70px;
+}
+
+section:nth-of-type(1) h2 {
+  color: white;
+  text-align: center;
+  font-size:32px;
+  line-height: 1.125;
+  letter-spacing: .004em;
+  font-weight: 500;
+}
+
+section:nth-of-type(1) p:nth-of-type(1)  {
+  color: white;
+  text-align: center;
+  font-size: 19px;
+  line-height: 1.4211;
+  font-weight: 400;
+  letter-spacing: .012em;
+  padding-bottom: 10px;
+
+}
+section:nth-of-type(1) p:nth-of-type(2) {
+  font-size:14px;
+  color: #86868b;
+  text-align: center;
+  line-height: 1.21053;
+  font-weight: 400;
+  letter-spacing: .012em;
+  margin-bottom: 17px;
+
+}
+/*section afbeelding styling */
+section:nth-of-type(2) {
+  background-image: url("../images/Iphone_SE.jpg");
+  height: 600px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  padding: 20px;
+  margin-top: -10px;
+}
+
+section:nth-of-type(1) p:nth-of-type(3){
+  font-size:19px;
+  letter-spacing: .012em;
+  text-align:center;
+  font-weight: 400;
+  line-height: 1.21053;
+
+}
+
+section:nth-of-type(1) p:nth-of-type(3) a:nth-of-type(2){
+  margin:0px 0px 0px 27px;
+}
+
+/*Styling voor link */
+section a{
+  text-decoration: none;
+  color:#0066CC;
+}
+
+section a:active{
+  text-decoration: underline;
+}
+
+/*Styling voor section 2 iPhone11*/
+
+/*Styling bovenste gedeelte van blok iPhone 11 */
+section:nth-of-type(3) {
+  background-color: white;
+  padding-top: 30px;
+  text-align: center;
+}
+
+section:nth-of-type(3) h2 {
+  text-align:center;
+  font-size:32px;
+  line-height: 1.125;
+  letter-spacing: .004em;
+  font-weight: 500;
+}
+section:nth-of-type(3) p:nth-of-type(1)  {
+  text-align: center;
+  font-size: 19px;
+  line-height: 1.4211;
+  font-weight: 400;
+  letter-spacing: .012em;
+  padding-bottom: 10px;
+}
+section:nth-of-type(3) p:nth-of-type(2) {
+  font-size:14px;
+  color: #86868b;
+  text-align: center;
+  line-height: 1.21053;
+  font-weight: 400;
+  letter-spacing: .012em;
+  margin-bottom: 17px;
+}
+/*Styling link */
+section:nth-of-type(3) p:nth-of-type(3){
+  font-size:19px;
+  letter-spacing: .012em;
+  text-align:center;
+  font-weight: 400;
+  line-height: 1.21053;
+}
+section:nth-of-type(3) p:nth-of-type(3) a:nth-of-type(2){
+  margin:0px 0px 0px 27px;
+}
+
+/*Styling afbeelding iPhone11 */
+section:nth-of-type(4){
+  background-image: url("../images/iPhone11.jpg");
+  height: 600px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  padding: 20px;
+  margin-top: -10px;
+}
+
+/*Styling bovenste gedeelte iMac*/
+section:nth-of-type(5) {
+  background-color: white;
+  padding-top: 30px;
+  text-align: center;
+}
+ section:nth-of-type(5) h2 {
+    text-align:center;
+    font-size:32px;
+    line-height: 1.125;
+    letter-spacing: .004em;
+    font-weight: 500;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 10px;
+  }
+
+  /*Styling afbeelding iMac */
+
+  section:nth-of-type(5){
+    background-image: url("../images/School.jpg");
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    padding: 20px;
+    margin-top: -10px;
+  }
