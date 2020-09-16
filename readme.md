@@ -40,7 +40,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -dit ging goed & dit was lastig-
 
+In het begin vond ik het erg lastig om te beginnen. De HTML schrijven ging nog wel reddelijk. De css was echter een stuk lastiger veel dingen moest ik telkens opniew opzoeken. Wat ook nieuw voor mij was was het gebruik van section:nth-of-type(1) maar toe ik dit eenmaal door had ging het een stuk beter.
+Toen ik eenmaal bezig was met de code merkte ik dat het best reddelijk ging. Waar ik nog wel veel moeite mee had was met de code van het hamburgermenutje.
+De opmaak hiervan is nog wel lastig.
+
 **Screenshot(s):**
+(images/schermafbeelding1.png)
+(images/schermafbeelding2.png)
+(images/schermafbeelding3.png)
+(images/schermafbeelding4.png)
+
 
 -screenshot(s) van hoe ver je bent-
 
