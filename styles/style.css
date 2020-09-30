@@ -26,7 +26,7 @@ nav {
 header {
   height: auto;
 }
-header ul {
+header ul:nth-of-type(1){
   list-style-type:none;
   display:flex;
   width: 80%;
@@ -43,9 +43,44 @@ header ul li img {
   transform: translateY(-100vh);
   position: absolute;
   height: 100vh;
-  width: 100vw;
-  background-color: red;
+  width: 375px;
+  background-color:rgba(0,0,0,1);
   transition: transform .5s;
+}
+.navigatiebar_hidden form {
+  padding: 0 10px 0 10px;
+  top: 48px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #000000;
+}
+.navigatiebar_hidden form input{
+  color:#1D1D1F;
+  font-size: 17px;
+  width: 355px;
+  height: 36px;
+  padding-left: 10px;
+}
+.navigatiebar_hidden ul:nth-of-type(2){
+  color: #F5F5F7;
+  list-style: none;
+  justify-content: center;
+  width: 295px;
+  height: 44px;
+  font-size:17px;
+  padding: 45px 40px 8px;
+}
+.navigatiebar_hidden ul:nth-of-type(2) a {
+  color:#F5F5F7;
+  text-decoration: none;
+  width: 295px;
+  height:44px;
+  padding: 0 10px;
+  border-bottom: 1px;
+  border-color: red;
+
+
 }
 
 .navigatiebar_hidden img {
