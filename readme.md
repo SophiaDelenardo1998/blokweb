@@ -24,14 +24,38 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+### Stand van zaken
 
+Ik ben bezig geweest met het stijlen van het uitgeplakte hamburgermenu. Hier liep ik wel vast namelijk met het stijlen van het list met de linkjes naar de verschillende pagina's.
+Daarnaast heb ik geprobeerd om een animatie te maken van het uitklappen van een hamburger menu, dit
+lukte echter niet. Ik heb hier veel tijd ingestoken.
+Waar ik wel tevreden over was was het stukje JavaScript dat ik heb gebruikt.
+
+
+-screenshot(s) van hoe ver je bent-
 
 
 ## Voortgang 2 (week 5)
 
 -same as voortgang 1-
 
+### Stand van zaken
+
+Ik ben bezig geweest met het stijlen van het uitgeplakte hamburgermenu. Hier liep ik wel vast namelijk met het stijlen van het list met de linkjes naar de verschillende pagina's.
+Daarnaast heb ik geprobeerd om een animatie te maken van het uitklappen van een hamburger menu, dit
+lukte echter niet. Ik heb hier veel tijd ingestoken.
+Waar ik wel tevreden over was was het stukje JavaScript dat ik heb gebruikt.
+
+
+-screenshot(s) van hoe ver je bent-
+
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/schermafbeelding_uitgeklapt.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/schermafbeelding1.jpg)
+
+Vragen
+
+- Hoe maakt ik een animatie van het uitklappen van een hamburgermenu?
+- Hoe krijg ik een lijntje onder de tekst van de linkjes in mijn menu?
 
 
 ## Voortgang 1 (week 3)
@@ -56,6 +80,8 @@ Desondanks had ik niet verwacht dat ik de code die ik nu heb had kunnen schrijve
 ### Verslag van meeting
 
 -na afloop snel uitkomsten vastleggen-
+Ik heb van de studenten assistenten wat tips gekregen om in de tweede pagina een courusel te gebruiken.
+Ook heb ik een linkje ontvangen voor het maken van een hamburgermenu.
 
 
 
