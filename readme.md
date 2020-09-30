@@ -26,10 +26,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
-Ik ben bezig geweest met het stijlen van het uitgeplakte hamburgermenu. Hier liep ik wel vast namelijk met het stijlen van het list met de linkjes naar de verschillende pagina's.
-Daarnaast heb ik geprobeerd om een animatie te maken van het uitklappen van een hamburger menu, dit
-lukte echter niet. Ik heb hier veel tijd ingestoken.
-Waar ik wel tevreden over was was het stukje JavaScript dat ik heb gebruikt.
 
 
 -screenshot(s) van hoe ver je bent-
@@ -49,7 +45,7 @@ Waar ik wel tevreden over was was het stukje JavaScript dat ik heb gebruikt.
 
 -screenshot(s) van hoe ver je bent-
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/schermafbeelding_uitgeklapt.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Schermafbeelding_uitgeklapt.png)
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/schermafbeelding1.jpg)
 
 Vragen
