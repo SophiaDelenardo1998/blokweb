@@ -55,6 +55,16 @@ header ul li img {
   background-color:#f5f5f7;
   margin-bottom: 10px;
 }
+.navigatiebar_hidden{
+  position: absolute;
+  transform:translateY(-100%);
+  transition: 3s;
+}
+
+.uitklappenMenu{
+  transform:translateY(0%);
+  
+}
 
 @keyframes beweging {
   0%{
