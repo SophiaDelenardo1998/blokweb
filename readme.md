@@ -25,10 +25,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Voortgang 3 (week 6)
 
 ### Stand van zaken
-
-
+Na het gesprek van vorige week ben ik bezig geweeest met
+het hamburgermenutje. Dit is eigelijk best fout gegaan.
+Het is gelukt om een hamburgermenu te maken door het gebruik van span. Echter is het gedeelte JavaScript wat eerst wel werkte nu
+niet meer werkend. Ook het uitlaten klappen van het hamburgermenu lukt telkens niet. Deze week ben ik voor mijn gevoel achteruit gegaan ten opzichten van vorige week.
+Ik heb eigelijk al mijn tijd gestoken in het proberen op te lossen van dit probleem
 
 -screenshot(s) van hoe ver je bent-
+[-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Schermafbeelding _week4.1.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/Schermafbeelding _week4.png)
 
 
 ## Voortgang 2 (week 5)
@@ -53,6 +58,11 @@ Vragen
 - Hoe maakt ik een animatie van het uitklappen van een hamburgermenu?
 - Hoe krijg ik een lijntje onder de tekst van de linkjes in mijn menu?
 
+### Verslag van meeting
+- Hamburgermenu animeren met span.
+- Pijltjes bij de linkjes naar rechts laten animeren
+- Met hoogte spelen op kleiner scherm
+- Footer van 3 kolommen toevoegen
 
 ## Voortgang 1 (week 3)
 
