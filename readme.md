@@ -7,8 +7,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. apple.com
-2. -bron 2-
-3. -...-
+
 
 
 
@@ -16,11 +15,21 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -dit ging goed & dit was lastig-
 
+De laatste week ben ik bezig geweest met de animaties op orden krijgen.
+Daarnaast ben ik het beoordeling lijstje afgegaan om te zorgen dat alles wat er in moet zitten er in zat. Deze week ging goed en ik merkte dat ik er steeds meer plezier in kreeg. Het gedeelte animaties vond ik zelf het leukst omdat als het lukte het er tof uitzag.
+
+Aan het begin van dit blok had ik niet gedacht dat ik dit had kunnen maken. Hier en daar zijn er dingen die ik anders of beter had willen doen maar ik merk dat ik soms te veel op een ding blijf hangen.
+
+Ik heb het trots op het hamburgermenu en de animatie daarvan. Ook het uitgeklapte menu vind ik aardig goed gelukt. De lijntjes onder de tekst zijn uiteindelijk gelukt en de hover animatie ook.
+
 **Screenshot(s):**
 
 -screenshot(s) van je eindresultaat-
+[-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/eerstepagina.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/tweedepagina1.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/tweedepagina.png)
 
-
+[-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/eerstepagina.png)
 
 ## Voortgang 3 (week 6)
 
